@@ -1564,6 +1564,7 @@ a > span{
      .banner-1>.banner-1-content>p,
      
     .expert-banner-1-1>p,
+    .main2>p,
      .srevices-part-1>p ,
      .service > p ,
      .choose>.why-choose>p,
@@ -1575,7 +1576,7 @@ a > span{
      .info > p {
         font-size: 1rem;
     }
-    .main2>p,.main2-last-part p,
+    .main2-last-part p,
     .img-container-part2 div,.expert-types > h3,
     .service > h3,
     .info>span ,
