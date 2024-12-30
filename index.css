@@ -1557,7 +1557,7 @@ a > span{
     .reviews>a ,
     span{
         padding: 15px 30px;
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .navbar>a ,
      .expert-types > p,
@@ -1571,7 +1571,7 @@ a > span{
      .info-customer,
      .info a ,
      .info > p {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .main2>p,.main2-last-part p,
     .expert-banner-1-1>p,
@@ -1579,11 +1579,11 @@ a > span{
     .service > h3,
     .info>span ,
     .footer-bottom  {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .reason h1,
     .img-container-part2>h2{
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     
     .main2>h1,
@@ -1591,12 +1591,12 @@ a > span{
     .banner-1>.banner-1-content h3,
     .srevices-part-1-1>h1,
     .choose>.why-choose>h1{
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
     #color-text ,
     .expert-banner-1-1>#color-text,
     .choose>.why-choose>#color-text,
     .srevices-part-1-1>#color-text{
-        font-size: 2.3rem;
+        font-size: 1.7rem;
     }
 }
